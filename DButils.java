@@ -1,1 +1,2 @@
-this line is adding for git stash
+this line is adding for git stas
+this is after staging
